@@ -1,4 +1,4 @@
-const createRating = (obj, weigth) => {
+const createRating = (obj, weight) => {
   return (
     obj.gameplay * weight.gameplay +
     obj.design * weight.design +
