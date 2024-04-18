@@ -1,2 +1,2 @@
 # server-games-vote
-The server for voting games on Node.js
+The server for voting games for Node.js
