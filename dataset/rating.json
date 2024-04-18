@@ -5,7 +5,7 @@
     "image": "https://code.s3.yandex.net/teens/pindie-games/gunner/cover.png",
     "link": "https://code.s3.yandex.net/teens/pindie-games/gunner/game/index.html",
     "description": "Продержись как можно дольше, отбиваясь от врагов, которых будет становиться всё больше.",
-    "rating": 0
+    "rating": 30
   },
   {
     "id": 3,
@@ -13,7 +13,7 @@
     "image": "https://code.s3.yandex.net/teens/pindie-games/defence-of-crystal/cover.png",
     "link": "https://code.s3.yandex.net/teens/pindie-games/defence-of-crystal/game/index.html",
     "description": "Защищай магический кристалл от монстров и уничтожай кладбища, чтобы спасти Землю, которую поглотил мрак.\n",
-    "rating": 0
+    "rating": 46
   },
   {
     "id": 1,
@@ -21,7 +21,7 @@
     "image": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png",
     "link": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html",
     "description": "Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космо-слизней.",
-    "rating": 0
+    "rating": 12
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "image": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/cover.png",
     "link": "https://code.s3.yandex.net/teens/pindie-games/dangeons-n-caves-prologue/game/index.html",
     "description": "Безымянный герой исследует пещеры и подземелья, чтобы найти больше информации о себе.",
-    "rating": 0
+    "rating": 70
   },
   {
     "id": 7,
